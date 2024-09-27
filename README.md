@@ -1,10 +1,9 @@
 # AF779.github.io
 A small webpage about Malaysia done by a novice coder
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Travel webpage</title>
+        <title>Project: Malaysia Info</title>
     </head>
     <body>
     <style>
